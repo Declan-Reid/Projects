@@ -4,8 +4,14 @@ Web
 ## Description
 Using a list of pre-recorded files, pronounce the time. For example, to pronounce 5:50, you would play the files ``five.mp3``, ``fif.mp3``, ``ty.mp3``.
 
-## Spoofed JSS
+# Spoofed JSS
 Use a DNS to redirect a jamf server url to a spoofed server, to ultimately run any code needed.
+
+## Currently working
+Custom DNS server to redirect requests to local server.
+
+## Not Currently Working
+Making the local https server trusted, which means that the Jamf client won't connect (which means we can't run code).
 
 # Update the mf timetable
 Make an industrial level timetable system (Firebase maybe?)
