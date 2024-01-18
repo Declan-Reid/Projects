@@ -37,3 +37,11 @@ A custom coded Minecraft EDU server that registers itself as a user, but has a c
 
 # 3D Chess, But with Minecraft mobs
 3D Chess, in which instead of having chess pieces, you have a minecraft mobs which walk and jump to their places. Should probably be made *in* Minecraft.
+
+# Jelly Physics
+Using the physics of JellyCar, make a game where you can possess objects, and move them to make a road for a car to cross, 
+
+ADD MORE DETAIL HERE
+
+# MoldyyBot
+A discord bot for MoldyyBox (hence MoldyyBot). Used for general moderation, message and action logging, automatic actions, etc.
