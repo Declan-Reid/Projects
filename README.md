@@ -53,3 +53,6 @@ Aha Jelly SSG3
 
 # MoldyyBot
 A discord bot for MoldyyBox (hence MoldyyBot). Used for general moderation, message and action logging, automatic actions, etc.
+
+# Train system GUI
+An app that allows you to control LEGO trains and track switches, ensuring that no ywo trains ever collide, nor do any trains fall off the end of a track. This should have an editor which saves the track layout, the train layout, position, and bluetooth id, and the switch ids to a file. This should then also use a map view to show where trains are and which switches are toggled, and a panel to control train speed, colour, and other features accessible from their control block (eg. lights).
