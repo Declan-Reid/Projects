@@ -59,3 +59,9 @@ An app that allows you to control LEGO trains and track switches, ensuring that 
 
 # Circuitry in game
 A realistic 3D (possibly VR) game, that includes the ability to make life like circuits, giving the player a shop that sells breadboards, motherboards, components, motors, lights, wires, etc...
+
+# Procedurally generating platformer
+Rather than a forever generating level, it forever generates levels (plural).
+
+# Personal Movie Rating System
+Retrieves movie data from imdb, allows me to rate how good it was on a scale, in different categories, and whether or not I would watch it again.
