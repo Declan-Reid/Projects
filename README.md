@@ -14,7 +14,7 @@ Custom DNS server to redirect requests to local server.
 Making the local https server trusted, which means that the Jamf client won't connect (which means we can't run code).
 
 > [!NOTE]
-> My current problem is getting a trusted https server, though I suppose I could use a github pages site on a sub-domain.
+> Could possibly use a github pages site on a sub-domain.
 
 # Update the mf timetable
 Make an industrial level timetable system (Firebase maybe?)
