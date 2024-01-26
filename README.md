@@ -66,5 +66,8 @@ Rather than a forever generating level, it forever generates levels (plural).
 # Personal Movie Rating System
 Retrieves movie data from imdb, allows me to rate how good it was on a scale, in different categories, and whether or not I would watch it again.
 
+> [!NOTE]
+> An alternative to imdb should be found, cuz I'm not paying $150,000+ for that,
+
 # Project List
 A list of projects, which when clicked on shows you a list of tasks to be done and their progress, any and all required resources and notes publicly available, etc.
