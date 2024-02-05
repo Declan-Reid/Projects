@@ -41,6 +41,8 @@ Edit saves by comparing before and after versions in a hex editor.
 # Minecraft EDU server
 A custom coded Minecraft EDU server that registers itself as a user, but has a custom backend. This could then also allow joining from bedrock (and potentially Java).
 
+This could also be a plugin for pre-existing bedrock servers.
+
 # 3D Chess, But with Minecraft mobs
 3D Chess, in which instead of having chess pieces, you have a minecraft mobs which walk and jump to their places. Should probably be made *in* Minecraft.
 
