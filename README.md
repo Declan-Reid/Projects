@@ -66,3 +66,6 @@ A realistic 3D (possibly VR) game, that includes the ability to make life like c
 This allows you to slot the Joy-Cons into the hub like the official grip, but it gets the inputs as if the Joy-Cons were attached to the Nintendo Switch.
 
 This could allow for USB-C connections from the Joy-Cons, a screen in the hub, battery indicators and macros.
+
+# Parkour Checkpoints Plugin
+A server plugin to keep track of checkpoints in a parkour map, and if a player has gone too far away from the parkour (probably cause they fell L), teleport them back to their last checkpoint.
