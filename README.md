@@ -61,3 +61,8 @@ An app that allows you to control LEGO trains and track switches, ensuring that 
 
 # Circuitry in game
 A realistic 3D (possibly VR) game, that includes the ability to make life like circuits, giving the player a shop that sells breadboards, motherboards, components, motors, lights, wires, etc...
+
+# A Nintendo Joy-Con hub
+This allows you to slot the Joy-Cons into the hub like the official grip, but it gets the inputs as if the Joy-Cons were attached to the Nintendo Switch.
+
+This could allow for USB-C connections from the Joy-Cons, a screen in the hub, battery indicators and macros.
