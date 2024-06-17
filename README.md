@@ -69,3 +69,63 @@ This could allow for USB-C connections from the Joy-Cons, a screen in the hub, b
 
 # Parkour Checkpoints Plugin
 A server plugin to keep track of checkpoints in a parkour map, and if a player has gone too far away from the parkour (probably cause they fell L), teleport them back to their last checkpoint.
+
+# Decky Core
+Minecraft Java core plugin.
+
+## Minecraft <--> Discord <--> Web
+Allow the chat and moderation system to be used throughout all three platforms. In this case, the web server would be the main and the Minecraft Server would use a websocket to send and receive data from the web server. A discord bot would be used to integrate Discord to the Web Server, which would in turn connect to the Minecraft Server.
+
+# MOLDYYBOX ENHANCEMENTS
+## Add dropping/trading
+This would obviously need a whitelist of items, which can be traded from and to a person. This would help prevent server griefing.
+
+Eg. A God player would be able to give someone Cloud, but an angel player would not be able to recieve it.
+
+## Commands
+### /quicktrash
+This essentially trashes all non-valuable items.
+
+Per-player customisable.
+
+### /trashistory
+Get a history of the past ~100 items put in the trash. This would allow the player to take the item back.
+
+This would be in a chest window.
+
+### /pvptoggle
+If we can find a proper way to have this used, in which it will not kill the server, we can use this.
+
+## A web GUI for AquaCore
+This would be a website, accessible by getting a code from in-game as a staff member. This would then allow you to customise permissions and ranks (and other assorted things) without using commands for them.
+
+This could then also show the location of players on a bird's eye view, allowing you to select a player and then manage and see info about them (messages, location, name, UUID, recently run commands, how long their current session is).
+
+This could then also allow staff to talk in chat without being in the game.
+
+## A scoreboard GUI
+This can show playtime, Rank, level, kdr, blocks mined (or some cool statistic) and some tips on what you should be doing.
+
+## Crates
+Daily/weekly and ranked crates. This would have a crate that you get for reaching a rank, and paid ranks would also get a daily/weekly crate.
+
+## Paid ranks/donations???
+Not sure about this one, but we do need a source of income for our servers.
+
+## Keeping players in-bounds.
+Space out areas so that no two are ever within the same render distance (capped by server), and ensure that anybody out of bounds is teleported back in.
+
+## Better trading system
+Use a chest window to display the trades, which would allow the player to select a pickaxe, which upon 
+
+## Bug report tokens
+A reward for reporting bugs
+
+## Rage Notifs
+Make Rage notifications show up in the bottom bar rather than chat.
+
+## Leaderboards
+For playtime, blocks mined, coins and completion %.
+
+## PARKOUR!!!
+Add some parkour about the place. Disable fly mode in these areas.
