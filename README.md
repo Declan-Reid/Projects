@@ -13,6 +13,9 @@ Custom DNS server to redirect requests to local server.
 ## Not Currently Working
 Making the local https server trusted, which means that the Jamf client won't connect (which means we can't run code).
 
+> [!NOTE]
+> Could possibly use a github pages site on a sub-domain.
+
 # Update the mf timetable
 Make an industrial level timetable system (Firebase maybe?)
 
@@ -129,3 +132,14 @@ For playtime, blocks mined, coins and completion %.
 
 ## PARKOUR!!!
 Add some parkour about the place. Disable fly mode in these areas.
+# Procedurally generating platformer
+Rather than a forever generating level, it forever generates levels (plural).
+
+# Personal Movie Rating System
+Retrieves movie data from imdb, allows me to rate how good it was on a scale, in different categories, and whether or not I would watch it again.
+
+> [!NOTE]
+> An alternative to imdb should be found, cuz I'm not paying $150,000+ for that,
+
+# Project List
+A list of projects, which when clicked on shows you a list of tasks to be done and their progress, any and all required resources and notes publicly available, etc.
